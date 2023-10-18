@@ -1,0 +1,43 @@
+first_names = (
+    "Bubbles", "Dizzy", "Wiggles", "Quirk", "Giggles", "Fiddlesticks",
+    "Zany", "Whimsy", "Snickers", "Chuckles", "Doodle", "Flapdoodle",
+    "Bumblebee", "Snugglekins", "Jibber Jabber", "Noodlehead", "Bumblegum",
+    "Dizzy Doodle", "Jolly", "Gobbledegook", "Ballyhoo", "Flibbertigibbet",
+    "Scurvy", "Wobble", "Lollygag", "Bamboozle", "Noodledoodle", "Gibberish",
+    "Hullabaloo", "Pickle", "Mumbo Jumbo", "Wobblekins", "Puddinghead",
+    "Flibberflop", "Bamboodle", "Dunderhead", "Whatchamacallit", "Malarkey",
+    "Dingleberry", "Gobbledygook", "Mishmash", "Brouhaha", "Rigamarole",
+    "Willy Nilly", "Gobbledegoo", "Ballywag", "Gibberwack", "Cranky",
+    "Dingbat", "Noodlebrain", "Flapdoodlekins", "Hootenanny", "Nincompoop",
+    "Bumbershoot", "Brouhaha", "Gigglemuffin", "Skedaddle", "Dingdong",
+    "Bizarro", "Balderdash", "Hullaballoo", "Doodlebug", "Mumbojumbo",
+    "Shenanigans", "Hooey", "Noodlewhack", "Wobblewabble", "Gibberishkins",
+    "Kerfuffle", "Flibbertigibbet", "Snickerdoodle", "Cacophony", "Bunkum",
+    "Whatchamadoodle", "Nincompoopkins", "Doodledoo", "Snickersnack", "Hobbledehoy",
+    "Higgledy-Piggledy", "Flibberflop", "Hoo-ha", "Pishposh", "Rambunctious",
+    "Rigmarole", "Helter-skelter", "Noodlenut", "Jibberwiggle", "Silliness",
+    "Whimwham", "Dillydally", "Doodledoodlebug", "Mishmashkin", "Piffle",
+    "Cockamamie", "Riffraff", "Noodleheadkins", "Lollygaggin", "Gobbledygibber",
+    "Bamboozlekaboodle", "Flummox", "Wallywag", "Fuzzywiggle", "Balloonatic",
+    "Mumbojumbowack", "Wigglywhimsy", "Fiddlefaddle", "Pishpoo", "Sillybean"
+)
+
+last_names = (
+    "McSnickerdoodle", "Whimsybottom", "Gobbledygookleberry", "Fiddledeedum", "Quirkleberry", "Bumblebop",
+    "Dundernoodle", "Snickerpants", "Dingleberrykins", "Wobblegum", "Doodlepop", "Quirkleflap",
+    "Bumbersnacks", "Noodlewhimsy", "Dinglepopkins", "Giggletush", "Snickersnort", "Wobblekins",
+    "Puddingpants", "Flapdoodleberry", "Noodledoodleberry", "Ballywhimsy", "Quirklesnort", "Fiddlejibber",
+    "Doodlewhack", "Bumblegiggle", "Quirklejibber", "Noodlewobble", "Dizzydoodleberry", "Snickersnuggle",
+    "Wigglesnicker", "Quirklepants", "Fiddlefluff", "Gobbledoodle", "Bumbleflap", "Whimsytush",
+    "Dizzywhimsy", "Fiddleberrykins", "Noodlefluff", "Snickersnickerdoodle", "Gobbledoodletush", "Quirklewhack",
+    "Dinglewobble", "Puddinggiggles", "Bumblepop", "Snickersnortkins", "Quirklepantskins", "Wobbletush",
+    "Flapdoodlefluff", "Dunderwhimsy", "Noodlegiggleberry", "Ballytush", "Quirklewhimsy", "Gigglesnickerdoodle",
+    "Snickersnortberry", "Bumbletushkins", "Doodleflap", "Quirklepuff", "Wobblegiggleberry", "Fiddlepopkins",
+    "Noodlewhimsykins", "Dinglewhack", "Puddingflap", "Fiddleflapkins", "Bumblewhimsy", "Dizzywhack",
+    "Gobbledoodlekins", "Flapdoodlewhimsy", "Quirkletush", "Snickersnuggleberry", "Wigglesnickerdoodle",
+    "Quirklepantskins", "Doodlefluff", "Quirklejibberberry", "Noodlewobblekins", "Dizzydoodle", "Gigglesnickerberry",
+    "Snickersnortwhimsy", "Wobblegumkins", "Flapdoodleberrykins", "Puddingtush", "Noodlegigglekins",
+    "Ballywhimsyberry", "Quirklewhimsykins", "Fiddlegiggle", "Bumblewhack", "Snickersnortfluff", "Doodlepopkins",
+    "Quirklepuffkins", "Wobblegigglekins", "Quirklepants", "Fiddlefluffkins", "Gobbledoodlewhack", "Bumblefluff",
+    "Dizzygiggleberry", "Flapdoodlewhimsy", "Giggletushkins", "Snickersnortpop", "Wobblepop", "Quirklesnicker"
+)
